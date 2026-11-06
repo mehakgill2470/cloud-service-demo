@@ -14,7 +14,7 @@ Version control helps a cloud project by tracking changes, preserving its histor
 
 ## Docker and containerization
 
-Docker packages an application and its runtime environment so it can run consistently on different computers. A Docker image is a reusable template that contains the application and its required environment. A Docker container is a running, isolated instance created from that image.
+Docker packages an application and its runtime environment so it can run consistently on different computers. A Docker image is a lightweight, read only template that contains the application and its required environment. A Docker container is a lightweight, portable runtime instance created from that image.
 
 ## Build and run
 

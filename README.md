@@ -36,7 +36,7 @@ Open `http://localhost:8080` in a web browser to view the webpage.
 
 ## Kubernetes
 
-Kubernetes is a platform used to deploy and manage containerized applications. A Pod runs the application container. A Deployment manages the Pods and keeps the requested number running. A Service provides a stable way to access the Pods.
+Kubernetes is an open source platform used to manage containerized workloads and services, designed to automate deploying, scaling and operating application containers.A Pod is the smallest deployable unit in Kubernetes and runs one or more containers. A Deployment manages Pods, maintains the requested number of replicas, and gradually replaces pods with a new version.Services are essential for reliable networking and load balancing within a cluster
 
 Start Minikube and load the Docker image:
 
